@@ -71,7 +71,7 @@ In contrast, the pro-Modi campaign (#Welcomemodi) saw 32,493 tweets analyzed, al
 
 <img width="738" alt="image" src="https://github.com/dharmateja36/Twitter-Trend-Manipulation-Investigating-Coordinated-Campaigns-and-Artificial-Popularity-Inflation/assets/117693500/febe6702-17c9-4e85-99ba-b46df0f42749">
 
-<img width="738" alt="image" src="https://github.com/dharmateja36/Twitter-Trend-Manipulation-Investigating-Coordinated-Campaigns-and-Artificial-Popularity-Inflation/assets/117693500/f5cd95cb-5e00-494b-8425-fabb9a5fab5c">
+<img width="1233" alt="image" src="https://github.com/dharmateja36/Twitter-Trend-Manipulation-Investigating-Coordinated-Campaigns-and-Artificial-Popularity-Inflation/assets/117693500/98152cff-b91d-42ac-95a9-4f07b3e66ed9">
 
 ## Conclusion
 In conclusion, this project successfully achieved its objectives of uncovering coordinated campaigns by analyzing artificial inflation of trend popularity on Twitter. By analyzing a dataset of over 300,000 tweets, the presence of coordinated campaigns that artificially inflated trend popularity on Twitter was identified. Notably, interesting trends and patterns were observed, including a high percentage of likes compared to retweets and a significant number of duplicate tweets.
